@@ -6,7 +6,11 @@ bootstrap3.3.7
 效果如下图
 当大屏显示时：效果如下
 ![Image text](https://github.com/caimaomao/bts/blob/master/img/1.png)
+
+
 当小屏显示时
+
+
 ![Image text](https://github.com/caimaomao/bts/blob/master/img/2.png)
 
 如果感兴趣可以打开git bash输入git clone https://github.com/caimaomao/bts 到本地查看效果
